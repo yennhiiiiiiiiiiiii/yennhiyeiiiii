@@ -1,0 +1,33 @@
+
+
+.banner {
+    background-image: url("/Users/nhi/Downloads/amazing-starry-sky-night-banner-260nw-2288332577.webp"); 
+    padding: 50px; 
+}
+.noidung {
+    width: auto;
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr 4fr;
+    grid-template-rows: 100px 100px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.icon img {
+    width: 50px; 
+    height: 45px; 
+}
+
+.icon h2 {
+    font-size: 40px;
+    color: white;
+    font-weight: normal;
+}
+
+.icon p {
+    font-size: 16px;
+    margin: 0;
+    color: yellow;
+}
+
+
+
